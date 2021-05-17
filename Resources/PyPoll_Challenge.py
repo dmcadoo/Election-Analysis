@@ -62,11 +62,11 @@ with open(file_to_load) as election_data:
             candidate_votes[candidate_name] = 0
 
         # Add a vote to that candidate's count
-        candidate_votes[candidate_name] += 1
+        candidate_votes[candidate_name] +=1
 
         # 4a: Write a decision statement that checks that the
         # county does not match any existing county in the county list.
-        if county_name not in counties:
+        if county_name not in county_names:
 
 
             # 4b: Add the existing county to the list of counties.
