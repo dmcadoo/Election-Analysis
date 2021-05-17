@@ -42,4 +42,6 @@ A Colorado State audit of recent local election.
 -------------------------
 
 
-
+## Election Audit Summary
+### This code can be used to address and verify future election results. 
+### Howver, the Largest county Turnout was unsuccessful at this time. More time and uderstanding will be needed to correct this issue. This type of code can be used to verify larger scale elctions in possible national scale audits. 
